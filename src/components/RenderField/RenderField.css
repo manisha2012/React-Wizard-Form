@@ -1,0 +1,22 @@
+.mdlTextField {
+  padding-bottom: 24px !important;
+}
+
+.mdlTextFieldInput[type=date][value=""] {
+    color: transparent;
+}
+
+.mdlTextFieldInput[type=date]:focus {
+  color: #000;
+}
+
+.RadioLabel {
+  color: #b9b9b9;
+  font-size: 16px;
+  text-align: left;
+  margin-right: 240px;
+}
+
+.RadioContainer {
+  margin-right:150px;
+}
